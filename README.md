@@ -54,7 +54,7 @@ The goal was to create a fully responsive, visually appealing website template w
 
 ### Live Site
 
-[Visit the Live Site](https://fathyhesham.github.io/Kasper-Website/)
+[Visit the Live Site](https://fathyhesham.github.io/Leon-Website/)
 
 ---
 
